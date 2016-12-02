@@ -1,0 +1,8 @@
+applications:
+- path: target/JavaHelloWorldApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: JProject_20161202
+  host: JProject-20161202
+  disk_quota: 1024M
